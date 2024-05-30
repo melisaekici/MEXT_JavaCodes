@@ -14,7 +14,7 @@ public class _12_Split {
         System.out.println("ToDoList: " + toDoList[3]); // index vererek de elemanlarını gösterebiliriz
         System.out.println("ToDoList: " + toDoList[toDoList.length-1]); // eleman sayısını bilmeden sonuncu elemanı alabiliriz
 
-        // for(String toDo : toDoList);
+        // for(String to_Do : toDoList);
         // for döngüsü ile listenin içerisinde dönerek bütün elemanlar listelenebilir (liste uzunluğunu belirtmemize gerek olmadan)
         // i++ = i + 1
         for(int i = 0; i < toDoList.length; i++) { // sıfırdan listenin uzunluğuna kadar döndürür
